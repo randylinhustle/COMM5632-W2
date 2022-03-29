@@ -136,8 +136,7 @@ p.hai {
 	line-height: 1.8;
 	text-align: left;
 	color: #000000;
-	margin-top: -6rem;
-	margin-bottom: -3rem;
+	margin-top: -3rem;
 }
 
 @media only screen and (max-width:768px) {
@@ -152,7 +151,7 @@ p.lin {
 	line-height: 1.8;
 	text-align: left;
 	color: #000000;
-	margin-top: -3rem;
+	/* margin-top: -3rem; */
 	margin-bottom: -3rem;
 }
 
@@ -779,6 +778,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 	text-transform: uppercase; 
 }
+
+.section-intro h2 {
+	font-family: "merriweather-bold", serif;
+	font-size: 1.5rem;
+	color: #000000;
+	line-height: 1.25;
+	margin-bottom: -2.1rem;
+}
+
 .section-intro h5 {
 	color: rgba(56, 66, 78, 0.5);
 	font-size: 1.6rem;

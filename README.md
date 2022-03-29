@@ -1,2 +1,2 @@
-# COMM5632
-Individual project for the COMM5632.
+# COMM5631
+Individual project for the COMM5631.
